@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627949077924",
+    "project_id": "tanova-b589c",
+    "storage_bucket": "tanova-b589c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627949077924:android:35d3d3d56373ac97a96d31",
+        "android_client_info": {
+          "package_name": "com.example.tanova_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7VzSu56bmf757ueN8zaEhdhUCVCC8KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
